@@ -6,5 +6,5 @@ Free client-side tools for people running AI agents (Claude Code, Codex, Hermes,
 - `test/calc.test.js` – run `node test/calc.test.js`
 
 Deploy: push to a GitHub repo, enable Pages (branch root). `.nojekyll` is included.
-The `#pack` link is a placeholder for the Agent-Ops-Pack (Gumroad URL TBD).
+The pack link points to the live Agent-Ops-Pack on Gumroad: https://forgeagent77.gumroad.com/l/agent-ops-pack
 Operated by Thümmler AI GmbH.
