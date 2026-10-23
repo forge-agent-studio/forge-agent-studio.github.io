@@ -16,3 +16,4 @@ button{background:var(--acc);color:#04210f;border:0;border-radius:6px;padding:.5
 .pack{font-size:.9rem;color:var(--mut)}
 pre{white-space:pre-wrap;background:var(--bg);border:1px solid var(--line);padding:.7rem;border-radius:6px;overflow:auto}
 footer{color:var(--mut);font-size:.85rem;border-top:1px solid var(--line);margin-top:2rem}
+table.hits{width:100%;border-collapse:collapse;font-size:.9rem}table.hits th,table.hits td{border-bottom:1px solid var(--line);padding:.4rem;text-align:left}code{background:var(--bg);padding:0 .25rem;border-radius:4px}
