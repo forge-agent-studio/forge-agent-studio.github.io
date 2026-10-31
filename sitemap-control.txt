@@ -1,0 +1,5 @@
+https://forge-agent-studio.github.io/
+https://forge-agent-studio.github.io/tools/cost-calculator.html
+https://forge-agent-studio.github.io/tools/secret-scanner.html
+https://forge-agent-studio.github.io/guides/lower-agent-cron-costs.html
+https://forge-agent-studio.github.io/guides/api-key-leaked-in-agent-logs.html
